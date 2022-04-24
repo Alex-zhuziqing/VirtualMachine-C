@@ -1,0 +1,3 @@
+FUNC LABEL 0
+    REF REG 0 VAL 8
+    RET
